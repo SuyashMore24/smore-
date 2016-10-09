@@ -1,0 +1,2 @@
+# smore-
+Leave management system
